@@ -109,14 +109,14 @@ button {
  font-size: 20px;
  margin-top: 18px;
  margin-bottom: 10px;
- width: 220px;
+ width: 260px;
 }
 #inputCity {
  padding: 10px;
  font-size: 20px;
   margin-bottom: 10px;
   margin-left: 5px;
-  width: 220px;
+  width: 260px;
 }
 #stateSelection {
  padding: 10px;
@@ -127,12 +127,12 @@ button {
 #pAC {
   padding: 10px;
   font-size: 20px;
-  width: 220px;
+  width: 260px;
 }
 #inputZip {
   padding: 10px;
   font-size: 20px;
   margin-left: 5px;
-  width: 350px;
+  width: 260px;
 }
 
